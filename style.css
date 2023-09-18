@@ -1,23 +1,66 @@
 .header{
-    font-family: "SamsungOneLatinWeb", "SamsungSans", "Interface_bd", Arial, Helvetica, "San-Serif";
+    color: white;
+    background-color: black;
     margin-top: 2vw;
     margin-left: auto;
     margin-right: auto;
-    width: 20vw;
+    width: 40vw;
     text-align: center;
 }
+
 .description{
-    font-family: "SamsungOneLatinWeb", "SamsungSans", "Interface_bd", Arial, Helvetica, "San-Serif";
+  
     margin-top: 2vw;
     margin-left: auto;
     margin-right: auto;
-    width: 20vw;
+    width: 40vw;
     text-align: center;
 }
+
 .image{
     margin-top: 2vw;
     margin-left: auto;
     margin-right: auto;
-    width: 20vw;
+    width: 60vw;
     image-rendering: auto;
+}
+
+.image img {
+
+        width: 60vw;
+
+}
+.info{
+    color: white;
+    background-color: black;
+    margin-top: 2vw;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60vw;
+    image-rendering: auto;
+
+}
+.EVRETHING{
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65vw;
+    background-color: rgb(25, 25, 50);
+}
+.bar{
+    padding-left: 10;
+    padding-top: 8;
+    width: 100vw;
+    background-color: rgb(50, 50, 75);
+}
+
+body{
+    
+    background-color: rgb(75, 75, 100);
+    font-size: 35;
+    font-family: "Open Sans", sans-serif;
+}
+head{
+    background-color: rgb(50, 50, 50);
 }
